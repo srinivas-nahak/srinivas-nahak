@@ -1,11 +1,11 @@
 ### Srinivas Nahak 👋
-Passionate Mobile Developer with a Strong Design Background
+✨Passionate Mobile Developer with a Strong Design Background
 
-* Crafting immersive user experiences by combining coding skills with captivating design.
-* Proficient in Flutter with good knowledge of Kotlin and Java.
-* Excited about creating custom animations using Lottie.
-* Committed to delivering seamless user journeys through a holistic approach to programming and design.
-* Lifelong learner, adaptable to new technologies, and seeking new challenges.
+* 💡 Crafting immersive user experiences by combining coding skills with captivating design.
+* 🚀 Proficient in Flutter with good knowledge of Kotlin and Java.
+* 🎨 Excited about creating custom animations using Lottie.
+* 🔗 Committed to delivering seamless user journeys through a holistic approach to programming and design.
+* 🌱 Lifelong learner, adaptable to new technologies, and seeking new challenges.
   
 Explore my GitHub to see the fusion of code and design that defines my creative journey. :)
 
